@@ -1,0 +1,4 @@
+/node_modules
+# frontend
+/bot-frontend
+.env
